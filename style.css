@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    z-index: 1;
+}
+
+.paragraf{
+    text-align: right;
+    background-color: ivory;
+    font-weight: bolder;
+    
+
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 800px;
+    border: 3px solid red;
+}
+
+img{
+    float: left;
+    z-index: 2;
+}
